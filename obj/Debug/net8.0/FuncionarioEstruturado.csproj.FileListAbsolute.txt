@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\bin\Debug\net8.0\FuncionarioEstruturado.exe
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\bin\Debug\net8.0\FuncionarioEstruturado.deps.json
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\bin\Debug\net8.0\FuncionarioEstruturado.runtimeconfig.json
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\bin\Debug\net8.0\FuncionarioEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\bin\Debug\net8.0\FuncionarioEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.AssemblyInfo.cs
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\refint\FuncionarioEstruturado.dll
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.pdb
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\FuncionarioEstruturado.genruntimeconfig.cache
+C:\Users\Fabio\Documents\csharp\projetos\FuncionarioEstruturado\obj\Debug\net8.0\ref\FuncionarioEstruturado.dll
